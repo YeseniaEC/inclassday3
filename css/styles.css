@@ -1,0 +1,21 @@
+.navigation {
+  background-color: pink;
+  font-weight: bold;
+  color: red;
+}
+.hero-section {
+  background-color: salmon;
+  height: 500px;
+  color: white;
+}
+.hero-section h1 {
+  margin-top: 10%;
+}
+.more-button {
+  background-color: black;
+}
+.boxes {
+  background-color: lightblue;
+  width: 25%;
+  margin: 45px;
+}
