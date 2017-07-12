@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Open+Sans');
+/* FONT */
+body {
+  font-family: 'Comfortaa' , sans-serif;
+}
+/*NAVBAR*/
+.navigation {
+  font-weight: bold;
+  margin: 0;
+}
+/*HERO*/
+.hero-section {
+  background-color: darkcyan;
+  height: 500px;
+  color: white;
+}
+
+.hero-section h1 {
+  margin-top: 10%;
+}
+
+.more-button {
+  background-color: black;
+}
+
+/*WELLS*/
+.title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.boxes {
+  background-color: rosybrown;
+  width: 25%;
+  margin: 45px;
+  font-weight: bold;
+  font-size: 16px;
+}
